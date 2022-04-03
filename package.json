@@ -1,0 +1,22 @@
+{
+  "name": "graphotix",
+  "version": "1.0.0",
+  "description": "A GUI for the Prisma schema",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc"
+  },
+  "keywords": [
+    "graphotix",
+    "prisma",
+    "decotix",
+    "decorators",
+    "gui"
+  ],
+  "author": "GraphotixLabs",
+  "license": "MIT",
+  "devDependencies": {
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
